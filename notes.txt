@@ -1,0 +1,2 @@
+I am learning Git and GitHub.
+My first project is Advance JavaScript.
